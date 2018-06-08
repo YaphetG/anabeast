@@ -1,0 +1,4 @@
+/app/src/main/java/anabeast/jebelaw/Application.java
+/app/src/main/java/anabeast/jebelaw/repos/ProductRepository.java
+/app/src/main/java/anabeast/jebelaw/controllers/ProductController.java
+/app/src/main/java/anabeast/jebelaw/models/Product.java

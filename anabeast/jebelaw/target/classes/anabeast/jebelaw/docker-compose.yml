@@ -1,0 +1,10 @@
+version: "3.3"
+services:
+  jebelaw:
+    image: springio/jebelaw
+    build: ./
+    ports:
+      - 8080:8080
+    volumes:
+      - .:/app
+      - ~/.m2:/root/.m2

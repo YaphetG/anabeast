@@ -1,0 +1,13 @@
+{
+	"name": "shemsu",
+	"version":"1.0.0",
+	"description":"Store front for ecommerce project",
+	"author":"Yaphet Kebede",
+	"main":"server.js",
+	"scripts":{
+		"start":"node server.js"			
+	},
+	"dependencies":{
+		"express":"^4.16.1"
+	}
+}

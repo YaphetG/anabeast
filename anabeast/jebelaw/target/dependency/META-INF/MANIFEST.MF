@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.3.9
+Built-By: root
+Build-Jdk: 10.0.1
+Implementation-Title: jebelaw
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: anabeast
+Implementation-URL: http://maven.apache.org
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: anabeast.jebelaw.Application
+Spring-Boot-Version: 2.0.2.RELEASE
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+
